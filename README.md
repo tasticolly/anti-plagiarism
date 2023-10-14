@@ -1,4 +1,4 @@
-# anti-plagiarism_tinkoff_generation
+# anti-plagiarism
 ##### В качестве меры использовал векторы с TF-IDF для каждого слова, затем сравнивал близость двух векторов через cosine similarity. 
 
 ##### Привел для примера по одному input.txt и output.txt
